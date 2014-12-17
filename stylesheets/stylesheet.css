@@ -286,6 +286,16 @@ Full-Width Styles
   border-bottom-right-radius: 2px;
 }
 
+#headshot_pic {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 10 px;
+  z-index: 40;
+  padding: 10px 10px 10px 10px;
+  background: url('../images/IMG_8304crop.png') #54ab2c no-repeat 95% 50%;
+}
+
 #header_wrap {
   background: #f2f2f2;
   /* background: -moz-linear-gradient(top, #373737, #f2f2f2);
