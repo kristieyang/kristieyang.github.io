@@ -105,7 +105,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #69ed57;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -356,8 +356,8 @@ Full-Width Styles
 
 #main_content_wrap {
   background: #f2f2f2;
-  border-top: 1px solid #111;
-  border-bottom: 1px solid #111;
+  /*border-top: 1px solid #111;
+  border-bottom: 1px solid #111;*/
 }
 
 #main_content {
