@@ -289,8 +289,8 @@ Full-Width Styles
 #headshot_pic {
   display: inline;
   position: static;
-  border:1px solid #373737
-  background: url('../images/IMG_8304crop.png') #54ab2c no-repeat 95% 50%;
+ /* border:1px solid #373737*/
+  background: url('../images/IMG_8304crop.png') #54ab2c no-repeat;
 }
 
 #header_wrap {
