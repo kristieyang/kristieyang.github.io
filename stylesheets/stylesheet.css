@@ -291,6 +291,9 @@ Full-Width Styles
   position: static;
  /* border:1px solid #373737*/
   background: url('../images/IMG_8304crop.png') #54ab2c no-repeat;
+  height: auto;
+  width: auto;
+  float: left;  
 }
 
 #header_wrap {
