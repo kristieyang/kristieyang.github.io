@@ -291,6 +291,7 @@ Full-Width Styles
   position: static;
  /* border:1px solid #373737*/
   background: url('../images/IMG_8304crop.png') #54ab2c no-repeat;
+  backgroun-size: 100% 100%;
   height: auto;
   width: auto;
   float: left;  
