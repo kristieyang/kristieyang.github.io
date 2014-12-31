@@ -285,7 +285,7 @@ Full-Width Styles
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 }
-
+/*
 #headshot_pic {
   display: block;
   position: static;
@@ -295,7 +295,7 @@ Full-Width Styles
   height: auto;
   width: auto;
   float: left;  
-}
+}*/
 
 #header_wrap {
   background: #f2f2f2;
