@@ -272,13 +272,11 @@ Full-Width Styles
   margin: 0 auto;
 }
 
-.forkmepos {
-  position: relative;
-  max-width: 640px;
-  padding: 20px 10px;
-}
-
 #forkme_banner {
+  display: block;
+  position: absolute;
+  bottom:5px;
+  right: 10px;  
   z-index: 10;
   padding: 10px 50px 0px 10px;
   color: #fff;
