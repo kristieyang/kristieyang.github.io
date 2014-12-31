@@ -293,7 +293,9 @@ Full-Width Styles
   display: inline;
   float: right;
   position: static;
-  border:3px solid #54ab2c
+  border-style:solid
+  border-width:2px
+  border-color: #54ab2c
   border-style: solid;
   border-radius: 25px;  
 }
