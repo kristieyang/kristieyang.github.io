@@ -290,6 +290,7 @@ Full-Width Styles
 }
 
 #headshot {
+  float: left; 
   display: inline;
   position: static;
   background: #54ab2c;
