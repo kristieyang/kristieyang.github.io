@@ -275,7 +275,7 @@ Full-Width Styles
 #forkme_banner {
   display: block;
   position: absolute;
-  bottom:0px;
+  bottom:20px;
   right: 10px;  
   z-index: 10;
   padding: 10px 50px 0px 10px;
@@ -286,7 +286,7 @@ Full-Width Styles
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
   border-radius: 5px;
-  vertical-align: middle;
+ 
 }
 
 #headshot {
