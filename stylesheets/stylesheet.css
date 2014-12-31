@@ -294,7 +294,7 @@ Full-Width Styles
   float: right;
   position: static;
   border-style: solid;
-  border-width: 2px;
+  border-width: 0px;
   border-color: #54ab2c;
   border-radius: 25px;  
 }
