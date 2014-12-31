@@ -69,6 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  padding-top: 10px;
   font-size: 36px;
   font-weight: 700;
 }
@@ -286,15 +287,13 @@ Full-Width Styles
   border-bottom-right-radius: 2px;
 }
 /*
-#headshot_pic {
+#headshot {
   display: block;
   position: static;
  /* border:1px solid #373737*/
-  background: url('../images/IMG_8304crop.png') #54ab2c no-repeat;
-  backgroun-size: 100% 100%;
-  height: auto;
-  width: auto;
-  float: left;  
+ /* background: url('../images/IMG_8304crop.png') #54ab2c no-repeat;
+  backgroun-size: 100% 100%;*/
+  border-radius: 25px;  
 }*/
 
 #header_wrap {
