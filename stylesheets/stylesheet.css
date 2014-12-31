@@ -293,7 +293,8 @@ Full-Width Styles
   display: inline;
   position: static;
   background: #54ab2c;
-  border-radius: 25px;  
+  border-width: thin;
+  border-radius: 5px;  
 }
 
 #header_wrap {
