@@ -276,11 +276,11 @@ Full-Width Styles
   position: relative;
   max-width: 640px;
   padding: 20px 10px;
-  margin: 0 auto;
   top: auto;
-  right: 0;
+  right: auto;
   bottom: 0;
-  left: 0;
+  left: );
+  ;
 }
 
 #forkme_banner {
@@ -402,6 +402,11 @@ Small Device Styles
   }
 
   .inner {
+    min-width: 320px;
+    max-width: 480px;
+  }
+
+  .forkmepos{
     min-width: 320px;
     max-width: 480px;
   }
