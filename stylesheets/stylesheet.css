@@ -275,6 +275,8 @@ Full-Width Styles
 .forkmepos {
   position: relative;
   max-width: 640px;
+  padding: 20px 10px;
+  margin: 0 auto;
   top: auto;
   right: 0;
   bottom: 0;
