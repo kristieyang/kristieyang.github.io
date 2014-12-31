@@ -288,13 +288,10 @@ Full-Width Styles
 }
 
 #headshot {
-  display: block;
+  display: inline;
   position: static;
- /* border:1px solid #373737*/
- /* background: url('../images/IMG_8304crop.png') #54ab2c no-repeat;
-  background-size: 100% 100%;*/
-  border-style: solid; 
-  border-color: 54ab2c;
+  border:1px solid #54ab2c
+  border-style: solid;
   border-radius: 25px;  
 }
 
