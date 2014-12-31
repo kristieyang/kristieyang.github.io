@@ -273,13 +273,14 @@ Full-Width Styles
 }
 
 .forkmepos {
-  position: fixed;
+  position: relative;
   max-width: 640px;
   top: auto;
   right: 0;
   bottom: 0;
   left: 0;
 }
+
 #forkme_banner {
   display: block;
   position: absolute;
