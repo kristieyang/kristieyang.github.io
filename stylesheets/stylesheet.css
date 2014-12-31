@@ -276,10 +276,6 @@ Full-Width Styles
   position: relative;
   max-width: 640px;
   padding: 20px 10px;
-  top: auto;
-  right: auto;
-  bottom: 0;
-  left: 0;
 }
 
 #forkme_banner {
